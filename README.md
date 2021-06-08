@@ -1,4 +1,4 @@
-# Getting Started with Create React App - MERN STACK App
+# Getting Started with Create React App - MERN STACK App - with Mongo DB
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
